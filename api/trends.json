@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T17:32:18.444468+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-07-30T19:54:01.256466+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 11时18分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时54分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -49,18 +61,6 @@
           "time_info": "[04时57分 ~ 08时01分]"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 17时32分]"
-        },
-        {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -83,6 +83,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时17分 ~ 08时01分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时54分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -140,18 +152,6 @@
           "time_info": "11时18分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 17时32分]"
-        },
-        {
           "title": "美联储主席沃什：本次政策会议上并没有感受到（来自特朗普政府的政治）掣肘。",
           "url": "https://wallstreetcn.com/livenews/3141860",
           "source": "华尔街见闻-快讯",
@@ -179,11 +179,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 19时54分]"
         },
         {
           "title": "特朗普在葬礼上曝光逝者手机号",
@@ -214,7 +215,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -324,7 +325,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -409,8 +410,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时54分]"
+        },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
           "url": "https://wallstreetcn.com/articles/3778174",
@@ -421,17 +433,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 06时05分]"
-        },
-        {
-          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
-          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "据伊朗学生通讯社和中东地区媒体Al-Araby报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
@@ -456,6 +457,18 @@
           "time_info": "06时05分"
         },
         {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时54分]"
+        },
+        {
           "title": "【美沙空袭伊拉克致4名伊朗革命卫队成员身亡】总台记者当地时间29日获悉，伊朗中央省副省长表示，美国和沙特当天凌晨对伊拉克迪亚拉省发动联合空袭，造成四名伊朗伊斯兰革命卫队成员死亡。（央视）",
           "url": "https://wallstreetcn.com/livenews/3141862",
           "source": "华尔街见闻-快讯",
@@ -465,6 +478,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时54分]"
         },
         {
           "title": "美称伊朗发射导弹袭击驻中东美军",
@@ -490,18 +515,6 @@
           "time_info": "[01时17分 ~ 03时18分]"
         },
         {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 17时32分]"
-        },
-        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
@@ -511,6 +524,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时54分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
@@ -523,17 +559,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 14时31分]"
-        },
-        {
-          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
-          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "美军正在伊朗境内进行空袭。（AXIOS）",
@@ -575,7 +600,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -602,15 +627,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
+          "title": "伊朗格什姆岛和基什岛遭袭 美军发布打击画面",
+          "url": "https://wallstreetcn.com/livenews/3142400",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "19时54分"
         },
         {
           "title": "美军称结束对伊朗实施的新一轮大规模打击",
@@ -622,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "伊朗军方称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://wallstreetcn.com/livenews/3142397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "伊媒称伊朗格什姆岛和基什岛遭美军袭击",
@@ -652,7 +688,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -904,8 +940,21 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 19时54分]"
+        },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
           "url": "https://wallstreetcn.com/livenews/3141809",
@@ -918,16 +967,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 17时32分]"
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -1009,11 +1057,12 @@
           "ranks": [
             2,
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时54分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
