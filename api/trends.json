@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-20T17:13:58.856256+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-10-20T22:46:02.243241+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "美国中央司令部：伊朗有关油轮在霍尔木兹海峡触碰水雷的说法不属实。",
+          "url": "https://flash.jin10.com/detail/20261020224059103800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
         {
           "title": "伊朗塔斯尼姆通讯社：也门无人机袭击沙特达曼，达曼机场运营暂停。",
           "url": "https://wallstreetcn.com/livenews/3181380",
@@ -36,9 +47,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗海军表示，今日上午，海军监测人员在霍尔木兹海峡东部发现一艘在禁航区起火的违规油轮。",
+          "url": "https://flash.jin10.com/detail/20261020223747517800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国官员称，伊朗关于美国袭击伊朗海军基地的说法并不准确。",
@@ -61,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：消灭伊朗政权就意味着消灭黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20261020223659979800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -129,13 +162,24 @@
           "time_info": "03时05分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：必须推翻伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20261020223421274800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "伊朗称埃及介入胡塞和沙特的冲突只会将使局势恶化",
           "url": "https://wallstreetcn.com/livenews/3181730",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -162,13 +206,24 @@
           "time_info": "07时23分"
         },
         {
+          "title": "【美国待售房屋销量降至历史低点，抵押贷款利率上升】美国9月现有住房待售销量跌至历史最低水平，高企的抵押贷款利率持续压制购房需求。 周二公布的数据显示，美国全国房地产经纪人协会（NAR）的成屋签约指数上月下跌7.3%，至66，为2001年有记录以来最低。 这一惨淡数据是最新一系列报告显示美国房地产市场在高借贷成本和房价压力下仍陷入僵局的最新例证。自伊朗战争爆发以来，抵押贷款利率持续攀升，目前已接近三年来的最高水平。 根据未经季节性调整的数据，签约量较去年同期下降近13%。 美国各地区的待售房屋销量均大幅下滑。西部地区跌幅最大，达9.2%；而南部——最大的房屋销售地区——下跌8.2%。",
+          "url": "https://wallstreetcn.com/livenews/3181977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "俄外长：俄专家正陆续返回伊朗布什尔核电站项目",
           "url": "https://wallstreetcn.com/livenews/3181712",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -245,7 +300,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -253,8 +308,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 22时46分]"
+        },
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
           "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
@@ -267,26 +334,26 @@
           "time_info": "[11时47分 ~ 17时13分]"
         },
         {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 17时13分]"
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
           "title": "美国副总统万斯：尚未与特朗普讨论过2028年潜在的总统参选事宜。 还没决定2028年怎么做。 如果我在2028年参选，我认为特朗普会支持我。",
@@ -300,15 +367,16 @@
           "time_info": "07时23分"
         },
         {
-          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
-          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
-          "source": "凤凰网",
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
           "ranks": [
-            12
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时47分 ~ 17时13分]"
+          "time_info": "[17时13分 ~ 22时46分]"
         },
         {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
@@ -316,7 +384,19 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 22时46分]"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -358,13 +438,35 @@
           "time_info": "[11时47分 ~ 11时48分]"
         },
         {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B9%8C%E9%97%AE%E9%A2%98%E4%B8%8A%E7%AB%8B%E5%9C%BA%E5%BE%88%E5%85%AC%E5%85%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
+          "title": "特朗普公开支持以总理连任有何考量",
+          "url": "https://www.toutiao.com/trending/7698684709220188681/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
           "title": "如何看待特朗普再推80亿美元柴油补贴",
           "url": "https://www.toutiao.com/trending/7698633967376797225/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -375,7 +477,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -402,13 +504,24 @@
           "time_info": "11时48分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：周日与美国总统特朗普进行通话，讨论了消除伊朗政权的重要性。",
+          "url": "https://flash.jin10.com/detail/20261020223144788800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普民调支持率创历史新低",
           "url": "https://www.toutiao.com/trending/7698543479689904678/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -419,7 +532,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -460,8 +573,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时13分 ~ 22时46分]"
+        },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
           "url": "https://www.zhihu.com/question/2095476625228019430",
@@ -474,24 +599,24 @@
           "time_info": "[11时47分 ~ 17时13分]"
         },
         {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
           "title": "美国禁止政府使用DeepSeek",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         },
@@ -506,6 +631,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 11时48分]"
+        },
+        {
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
         },
         {
           "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
@@ -558,7 +694,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -566,7 +702,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -604,22 +740,88 @@
           "time_info": "[07时23分 ~ 11时48分]"
         },
         {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
+          "title": "美股市值前十公司盘初股价全线下跌",
+          "url": "https://www.toutiao.com/trending/7698236248431050795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
+          "title": "美股深夜反攻纳指涨超1%",
+          "url": "https://www.douyin.com/hot/2703663",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
+        {
           "title": "美股盘前，存储芯片股普跌，SK海力士跌约4%，西部数据跌约2%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约2%。",
           "url": "https://wallstreetcn.com/livenews/3181703",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近2%，区域银行业ETF、银行业ETF涨超1%，半导体ETF跌近2%，科技行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3181965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌1.75%，存储芯片股、光通信股普跌，通用汽车跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3181960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时45分 ~ 22时46分]"
+        },
         {
           "title": "市场消息：消息人士称，软银与MGX正洽谈参与OpenAI本轮融资。",
           "url": "https://flash.jin10.com/detail/20261020071530604800",
@@ -649,7 +851,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时13分"
         }
@@ -680,6 +882,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：谷歌在伦敦的云服务中断，多家银行与金融公司受影响，谷歌致歉",
+          "url": "https://wallstreetcn.com/livenews/3181980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
