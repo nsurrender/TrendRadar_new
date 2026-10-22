@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T06:10:50.560756+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-10-22T09:19:03.081849+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "美消息人士：数十架以色列军机曾飞近伊朗边境 背后目的引关注",
@@ -41,6 +41,39 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "伊朗最高领袖会见议会议长卡利巴夫",
+          "url": "https://www.toutiao.com/trending/7699142459120484914/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "美媒：伊朗“影子油轮”船队已无油可运",
+          "url": "https://flash.jin10.com/detail/20261022090340006800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是身居律所高管办公室，只要你为伊朗政权提供支持，我们就会找到你并实施制裁。 伊朗的协助者必须做出选择：要么站在我们这边，要么与我们为敌。 我们清楚你们是谁，清楚你们的所作所为，并且会持续采取行动。",
           "url": "https://wallstreetcn.com/livenews/3182890",
           "source": "华尔街见闻-快讯",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "消息称美以已制定新一轮对伊朗打击计划",
+          "url": "https://wallstreetcn.com/livenews/3183042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "伊朗阿拉格齐：如果看到美国真诚希望建立信任并达成公正解决方案的有力证据，伊朗准备再给外交一次机会。但如果美国选择战争而非外交，必将导致更大的战略失败。",
@@ -80,7 +124,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -91,7 +135,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -113,7 +157,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -124,57 +168,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
-          "url": "https://flash.jin10.com/detail/20261022055300050800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
-          "url": "https://flash.jin10.com/detail/20261022055128917800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
-          "url": "https://wallstreetcn.com/livenews/3182998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
-          "url": "https://flash.jin10.com/detail/20261022055023306800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -182,8 +176,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+          "url": "https://www.cls.cn/detail/2511640",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
         {
           "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/3183001",
@@ -191,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -213,7 +229,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -224,7 +240,68 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3183019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
+          "url": "https://flash.jin10.com/detail/20261022055300050800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
+          "url": "https://flash.jin10.com/detail/20261022055128917800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
+          "url": "https://wallstreetcn.com/livenews/3182998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
+          "url": "https://flash.jin10.com/detail/20261022055023306800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -232,8 +309,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "揭秘DeepSeek开源推理框架",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
@@ -261,7 +349,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -275,13 +363,24 @@
           "time_info": "[02时27分 ~ 06时10分]"
         },
         {
+          "title": "SpaceX与特斯拉的潜在合并交易据悉可能有意在特朗普任期结束前完成。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3183039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美国前国务卿希拉里：十年后回看，我们正实时目睹我当年所警告的一切，以及所有证据所证实的一切：特朗普对普京的忠诚，远超他对自由、民主，乃至美国国家安全的承诺。",
           "url": "https://flash.jin10.com/detail/20261022052906788800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
